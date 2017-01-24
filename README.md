@@ -17,7 +17,7 @@ Lernmaterialien LA I:
 ### Umformungsregeln_Determinanten.pdf
 ### VektorräumeZsf.pdf
 ### Zusammenfassung-LA1.pdf	
-### dualraum.pdf	Add files
+### dualraum.pdf
 ### formelsammlung-la1.pdf
 ### formelsammlung-la2.pdf	
 ### graphmatrix.pdf
