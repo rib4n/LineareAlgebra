@@ -1,11 +1,11 @@
-# LineareAlgebra - Material zur Vorlesung im 1. Semester & 2. Semester
+# Lineare Algebra 
+### Material zur Vorlesung im 1. Semester & 2. Semester
 
 Lernmaterialien LA I:
 
-*Liebe Kommilitonen,
-in diesem Repository findet Ihr nützliche Quellen rund um die Lineare Algebra. Ihr findet alte Klausuren, Zusammenfassungen und Skripte. Das meiste stammt nicht von mir, sondern von anderen Studenten und Professoren des KIT (Karlsruhe Institute of Technology).
-Ich wünsche euch viel Erfolg beim Lernen.
-*
+*Liebe Kommilitonen,*
+*in diesem Repository findet Ihr nützliche Quellen rund um die Lineare Algebra. Ihr findet alte Klausuren, Zusammenfassungen und Skripte.* *Das meiste stammt nicht von mir, sondern von anderen Studenten und Professoren des KIT (Karlsruhe Institute of Technology).*
+*Ich wünsche euch viel Erfolg beim Lernen.*
 # Inhalt:
 
 ## Der (-1)-Trick.pdf	Add 
@@ -23,4 +23,4 @@ Ich wünsche euch viel Erfolg beim Lernen.
 ## README.md
 
 ________________________________________________________________________________________________________________________________________
-# "Wer fragt, ist ein Narr für fünf Minuten. Wer nicht fragt, ein Leben lang."
+### "Wer fragt, ist ein Narr für fünf Minuten. Wer nicht fragt, ein Leben lang."
