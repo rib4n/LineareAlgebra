@@ -1,6 +1,6 @@
 # Lineare Algebra 
 ### Material zur Vorlesung im 1. Semester & 2. Semester
-
+________________________________________________________________________________________________________________________________________
 Lernmaterialien LA I:
 
 *Liebe Kommilitonen,*
@@ -23,7 +23,13 @@ Lernmaterialien LA I:
 ### graphmatrix.pdf
 ### README.md
 
+### Links:
 
+#### Lineare Algebra I für die Fachrichtung Informatik (Wintersemester 2016/17)- Dr. Gabriele Link:
+http://www.math.kit.edu/iag2/lehre/la1info2016w/de
+
+#### Lineare Algebra und Analytische Geometrie I (Wintersemester 2016/17)- Prof. Dr. Enrico Leuzinger:
+http://www.math.kit.edu/iag2/lehre/la12016w/de
 ________________________________________________________________________________________________________________________________________
 
 ### "Wer fragt, ist ein Narr für fünf Minuten. Wer nicht fragt, ein Leben lang."
