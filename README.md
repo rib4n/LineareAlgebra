@@ -8,7 +8,7 @@ Lernmaterialien LA I:
 *Ich wünsche euch viel Erfolg beim Lernen.*
 # Inhalt:
 
-## Der (-1)-Trick.pdf	Add 
+## Der (-1)-Trick.pdf
 ## Klausuren_LA.zip	
 ## LA-Skript.pdf
 ## LA1_VerfahrenZsf.pdf
