@@ -1,11 +1,13 @@
 # Lineare Algebra 
 ### Material zur Vorlesung im 1. Semester & 2. Semester
 ________________________________________________________________________________________________________________________________________
+
 Lernmaterialien LA I:
 
 *Liebe Kommilitonen,*
 *in diesem Repository findet Ihr nützliche Quellen rund um die Lineare Algebra. Ihr findet alte Klausuren, Zusammenfassungen und Skripte.* *Das meiste stammt nicht von mir, sondern von anderen Studenten und Professoren des KIT (Karlsruhe Institute of Technology).*
 *Ich wünsche euch viel Erfolg beim Lernen.*
+________________________________________________________________________________________________________________________________________
 
 ## Inhalt:
 
@@ -32,4 +34,3 @@ http://www.math.kit.edu/iag2/lehre/la1info2016w/de
 http://www.math.kit.edu/iag2/lehre/la12016w/de
 ________________________________________________________________________________________________________________________________________
 
-### "Wer fragt, ist ein Narr für fünf Minuten. Wer nicht fragt, ein Leben lang."
